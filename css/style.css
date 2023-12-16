@@ -1,0 +1,20 @@
+* {
+    font-family: monospace;
+    /* background-image: ; */
+    background-color: rgb(244, 233, 114);
+}
+h1{
+    text-align: center;
+}
+ul>li{
+    font-size: 18px;
+}
+#special-card{
+    background-color: red;
+    width: 310px;
+    text-align: center;
+}
+#menu-img{
+    height: 310px;
+    width: 310px;
+}
