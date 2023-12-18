@@ -1,1 +1,10 @@
+* {
+    font-family: monospace;
+    background-color: rgb(254, 247, 167);
+    /* text-align:center; */
+    
+}
 
+.center-align{
+    text-align: center;
+}
